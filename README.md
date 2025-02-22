@@ -2,7 +2,7 @@
 
 
 
-server should run automatically when starting a workspace. To run manually, run:
+installed the pyhton api for telegram, run:
 ```
 pip install python-telegram-bot
 ```
